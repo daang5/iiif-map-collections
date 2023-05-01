@@ -1123,3 +1123,17 @@
      - title: "Kaart van West Nederland"
       type: image
       url: https://images.memorix.nl/ranh/iiif/9695b2c9-0b29-e14d-c7dd-d835c7b17ae0/info.json 
+      
+- title: Beeldbank Groningen
+  url: https://www.beeldbankgroningen.nl/beelden/?mode=gallery&view=horizontal&page=1&fq%5B%5D=search_s_dc_type:%22Kaart%22&fq%5B%5D=search_s_studiezaal:%22Online%22&sort=random%7B1682949136174%7D%20asc&reverse=0
+  examples:
+    - title: "Belegeringe voor Groningen door den ceurvorst van Ceulen en bisschop van Munster, begonnen den 9 julij en verlaeten den 17 augusti 1672"
+      type: image
+      url: https://images.memorix.nl/gra/iiif/87eca74d-106a-00c7-e927-701aebc99828/info.json 
+      
+    - title: "Plattegrond van de vesting Winschoten"
+      type: image
+      url: https://images.memorix.nl/gra/iiif/fef91db6-3ab7-af9c-9708-a7382fa1421e/info.json
+      
+      
+      
