@@ -1111,3 +1111,15 @@
     - title: "CARTE DU PARAGUAY DU CHILI DU DETROIT DE MAGELLAN"
       type: manifest
       url: https://api.bl.uk/metadata/iiif/ark:/81055/vdc_100052171660.0x000001/manifest.json
+
+
+- title: Noord-Hollands Archief
+  url: https://noord-hollandsarchief.nl/beelden/beeldbank/?mode=gallery&view=horizontal&sort=random%7B1682948723071%7D%20asc&page=1&fq%5B%5D=search_s_record_type:%22Kaart%22&fq%5B%5D=search_s_beeld_beschikbaar:%22Online%22&reverse=0
+  examples:
+    - title: "Ontwerp van grensregeling der aan het IJ"
+      type: image
+      url: https://images.memorix.nl/ranh/iiif/f0d3b4e0-b416-b49d-a733-8d28e26b0c2b/info.json  
+      
+     - title: "Kaart van West Nederland"
+      type: image
+      url: https://images.memorix.nl/ranh/iiif/9695b2c9-0b29-e14d-c7dd-d835c7b17ae0/info.json 
